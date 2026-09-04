@@ -1,0 +1,15 @@
+{
+  "favoriteWeapons": [
+    {
+      "hash": 1274330687,
+      "note": "Replace this with your own picks. Find a weapon's hash by searching for its name in data/weapons.json after running the build script."
+    }
+  ],
+  "loadouts": [
+    {
+      "name": "Example Loadout",
+      "description": "Short description of when/why you'd run this.",
+      "weaponHashes": [1274330687]
+    }
+  ]
+}
