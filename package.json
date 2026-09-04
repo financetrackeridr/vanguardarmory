@@ -1,0 +1,12 @@
+{
+  "name": "destiny-favorites-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch-manifest": "node build/fetchManifest.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
